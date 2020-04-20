@@ -3,6 +3,9 @@
 .RData
 .Ruserdata
 
-data
+data/external
+data/interim
+data/processed
+data/raw
 docs
 reports
