@@ -24,7 +24,7 @@ mkdirs("reports")
 mkdirs("reports/figures")
 
 #### Get detection data, tilt and noise measurements and receiver metadata #####
-# DOI: 
+# DOI: https://doi.org/10.14284/404
 # Download data and save in data/raw
 
 
