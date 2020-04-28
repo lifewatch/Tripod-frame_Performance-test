@@ -2,9 +2,9 @@
 
 This repository contains the code to compare the performance of two different deployment set-ups for acoustic receivers: a commonly used stone mooring and a tripod frame. Full details on the design of the frame and on the analysis are outlined in:
 
-**Goossens J., ‘Tjampens M., Deneudt K, Reubens, J. Mooring scientific instruments on the seabed – Design, deployment protocol and performance of a recoverable frame for acoustic receivers**
+**Goossens J., ‘Tjampens M., Deneudt K, Reubens, J. Mooring scientific instruments on the seabed – Design, deployment protocol and performance of a recoverable frame for acoustic receivers. Methods Ecol Evol. 2020 (Accepted)**
 
-Data are available through DOI: 
+Data are available through DOI: https://doi.org/10.14284/404
 
 The following protocol executes the analysis outlined in the publication. Scripts can be found in the folder *src*.
 ## 1) Get data
